@@ -41,7 +41,7 @@ class BlogController extends Controller
             'blogtitle' => 'C#',
             'date' => '2/25/2022',
             'subtitle' => 'Classes',
-            'content' => 'You learned from the previous chapter that C# is an object-oriented programming language. Everything in C# is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.   ',
+            'content' => 'You learned from the previous chapter that C# is an object-oriented programming language. Everything in C# is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.',
         ],
         7 => [
             'blogtitle' => 'Python',
